@@ -1,3 +1,5 @@
+#convert celcius to fareninheat
+
 celcius = 37.5
 
 fareninheat = (celcius * 1.8) +32

@@ -1,4 +1,4 @@
-#to print the random value
+#To print the random value
 
 import random
 
